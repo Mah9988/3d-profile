@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, tesla } from "../assets/images";
 import {
     car,
     contact,
@@ -112,8 +112,8 @@ export const skills = [
 export const experiences = [
     {
         title: "React.js Developer",
-        company_name: "Starbucks",
-        icon: starbucks,
+        company_name: "shopify",
+        icon: shopify,
         iconBg: "#accbe1",
         date: "March 2020 - April 2021",
         points: [
